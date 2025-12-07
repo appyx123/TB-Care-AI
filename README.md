@@ -133,7 +133,7 @@ TB-Care-AI/
 
 ## 👨‍💻 Author
 
-Dikembangkan oleh **[Nama Anda/Tim Anda]** untuk Riset Deteksi Dini Tuberkulosis.
+Dikembangkan oleh **[Muhammad Rafli dan Nahwa Kaka Saputra Anggareksa]** untuk Riset Deteksi Dini Tuberkulosis.
 
 ---
 
